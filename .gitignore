@@ -31,3 +31,10 @@
 # Debug files
 *.dSYM/
 *.su
+Debug/
+*.ld
+*.launch
+
+# Atollic TrueSTUDIO
+Release/
+.settings/
